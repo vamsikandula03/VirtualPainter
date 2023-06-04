@@ -1,4 +1,4 @@
-# Virtuval Painter
+# Virtual Painter
 Virtual Painter is an exciting project that allows you to unleash your creativity and paint virtually like never before. With this innovative creation, you can experience the joy of painting without the need for physical paint or canvases.
 
 ### Features
