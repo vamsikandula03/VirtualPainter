@@ -11,6 +11,6 @@ Eraser: Correct any mistakes or experiment with different styles using the erase
 Brush Thickness: Adjust the brush thickness feature to create different brush strokes and add depth to your artwork.
 
 ## Getting Started
-1. install the python libraries as in the requirements file 
-2. to select any color or thickness you have to point both index and middle finger to the above and select the desired one by going to that area
-3. to paint we should only use index finger and middle finger should be curled 
+1. Install the python libraries as in the requirements file 
+2. To select any color or thickness you have to point both index and middle finger to the above and select the desired one by going to that area
+3. To paint we should only use index finger and middle finger should be curled 
